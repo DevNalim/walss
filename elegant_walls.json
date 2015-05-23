@@ -1,6 +1,42 @@
 { 
 "wallpapers": 
 	[ 
+		
+		{
+			"author": "DevNalim",
+			"url": "https://raw.githubusercontent.com/DevNalim/walss/master/Faded%20Diamonds.png",
+			"name": "Faded Diamonds"
+		},
+		{
+			"author": "DevNalim",
+			"url": "https://raw.githubusercontent.com/DevNalim/walss/master/Learn.jpg",
+			"name": "Learn"
+		},
+		{
+			"author": "DevNalim",
+			"url": "https://raw.githubusercontent.com/DevNalim/walss/master/Make%20It%20Happen.jpg",
+			"name": "Make It Happen"
+		},
+		{
+			"author": "DevNalim",
+			"url": "https://raw.githubusercontent.com/DevNalim/walss/master/Mooned.png",
+			"name": "Mooned"
+		},
+		{
+			"author": "DevNalim",
+			"url": "https://raw.githubusercontent.com/DevNalim/walss/master/Revenge.jpg",
+			"name": "Revenge"
+		},
+		
+		
+		{
+			"author": "DevNalim",
+			"url": "https://raw.githubusercontent.com/DevNalim/walss/master/Stand%20Alone.png",
+			"name": "Stand Alone"
+		},
+		
+		
+		
 		{
 			"author": "DevNalim",
 			"url": "https://raw.githubusercontent.com/DevNalim/walss/master/Circulate.jpg",
