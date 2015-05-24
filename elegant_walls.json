@@ -1,7 +1,21 @@
 { 
 "wallpapers": 
 	[ 
-		
+			{
+			"author": "DevNalim",
+			"url": "https://raw.githubusercontent.com/DevNalim/walss/master/circuit.png",
+			"name": "Circuit"
+		},
+			{
+			"author": "DevNalim",
+			"url": "https://raw.githubusercontent.com/DevNalim/walss/master/icosphere.png",
+			"name": "Icosphere Android"
+		},
+			{
+			"author": "DevNalim",
+			"url": "https://raw.githubusercontent.com/DevNalim/walss/master/Material%20Rects.png",
+			"name": "Material Rectangles"
+		},
 		{
 			"author": "DevNalim",
 			"url": "https://raw.githubusercontent.com/DevNalim/walss/master/Faded%20Diamonds.png",
