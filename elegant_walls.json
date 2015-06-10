@@ -1,6 +1,14 @@
 { 
 "wallpapers": 
 	[ 
+			
+			{
+			"author": "DevNalim",
+			"url": "https://raw.githubusercontent.com/DevNalim/walss/master/I'm%20Stuck.png",
+			"name": "I'm Stuck"
+		},
+			
+			
 			{
 			"author": "DevNalim",
 			"url": "https://raw.githubusercontent.com/DevNalim/walss/master/Tagline.png",
