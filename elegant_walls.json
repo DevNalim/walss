@@ -1,6 +1,38 @@
 { 
 "wallpapers": 
 	[ 
+		
+		{
+			"author": "DevNalim",
+			"url": "https://raw.githubusercontent.com/DevNalim/walss/master/sherlocked.jpg",
+			"name": "Sherlocked"
+		},
+		
+		{
+			"author": "DevNalim",
+			"url": "https://raw.githubusercontent.com/DevNalim/walss/master/oweu.jpg",
+			"name": "A Fall"
+		},
+		
+		{
+			"author": "DevNalim",
+			"url": "https://raw.githubusercontent.com/DevNalim/walss/master/missme.jpg",
+			"name": "Miss Me"
+		},
+		
+		{
+			"author": "DevNalim",
+			"url": "https://raw.githubusercontent.com/DevNalim/walss/master/heart.jpg",
+			"name": "Burn The Hurt"
+		},
+		
+		{
+			"author": "DevNalim",
+			"url": "https://raw.githubusercontent.com/DevNalim/walss/master/crown.jpg",
+			"name": "Crown"
+		},
+		
+		
 	
 			{
 			"author": "DevNalim",
